@@ -1,0 +1,25 @@
+{
+  "name": "desafio-auvo-playwright",
+  "version": "1.0.0",
+  "description": "Desafio para vaga QA para a AUVO utilizando Playwright e JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --headed",
+    "test:headless": "npx playwright test",
+    "report": "npx playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielvsteodoro/desafio-auvo-playwright.git"
+  },
+  "keywords": [],
+  "author": "Gabriel Teodoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielvsteodoro/desafio-auvo-playwright/issues"
+  },
+  "homepage": "https://github.com/gabrielvsteodoro/desafio-auvo-playwright#readme",
+  "dependencies": {
+    "@playwright/test": "^1.56.1"
+  }
+}
