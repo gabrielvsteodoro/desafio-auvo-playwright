@@ -1,6 +1,6 @@
 # desafio-auvo-playwright
 
-Desafio para vaga QA para a AUVO utilizando Playwright e JavaScript.
+Desafio utilizando Playwright e JavaScript.
 
 Este projeto é uma prova de conceito (POC) de automação de testes web, desenvolvida em **JavaScript** utilizando **Playwright** e o padrão **Page Object Model (POM)**.
 
